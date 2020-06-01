@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Qbig</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">2561395097437350</string> <string name="fb_login_protocol_scheme">fb2561395097437350</string>
+</resources>
